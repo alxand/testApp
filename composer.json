@@ -1,6 +1,12 @@
-
 {
     "require": {
-        "monolog/monolog": "1.0.*"
+        "phpunit/phpunit": "^7"
+    },
+    "autoload": {
+        "classmap": [
+        	"index.php",
+        	"Config/",
+          "Controllers/"
+        ]
     }
 }

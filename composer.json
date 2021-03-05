@@ -1,4 +1,6 @@
 {
+    "name":"phpunit",
+    "description":"test cicd",
     "autoload": {
         "classmap": [
         	"index.php",

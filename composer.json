@@ -1,5 +1,5 @@
 {
-    "name":"phpunit",
+    "name":"sebastianbergmann/phpunit",
     "description":"test cicd",
     "autoload": {
         "classmap": [

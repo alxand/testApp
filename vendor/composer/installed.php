@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '19b1c3af66484d8477025e23e23f4de18bc6f958',
+    'reference' => 'f8a038af467c7827fd570c610b0964c85f930267',
     'name' => 'sebastianbergmann/phpunit',
   ),
   'versions' => 
@@ -247,7 +247,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '19b1c3af66484d8477025e23e23f4de18bc6f958',
+      'reference' => 'f8a038af467c7827fd570c610b0964c85f930267',
     ),
     'symfony/polyfill-ctype' => 
     array (

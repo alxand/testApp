@@ -1,12 +1,12 @@
 {
-    "require": {
-        "phpunit/phpunit": "^7"
-    },
     "autoload": {
         "classmap": [
         	"index.php",
         	"Config/",
           "Controllers/"
         ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7"
     }
 }

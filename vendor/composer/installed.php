@@ -6,20 +6,11 @@
     'aliases' => 
     array (
     ),
-    'reference' => '4638c2d92345dfbeb541338e4fe3aeba33b752d7',
-    'name' => '__root__',
+    'reference' => '19b1c3af66484d8477025e23e23f4de18bc6f958',
+    'name' => 'sebastianbergmann/phpunit',
   ),
   'versions' => 
   array (
-    '__root__' => 
-    array (
-      'pretty_version' => 'dev-main',
-      'version' => 'dev-main',
-      'aliases' => 
-      array (
-      ),
-      'reference' => '4638c2d92345dfbeb541338e4fe3aeba33b752d7',
-    ),
     'doctrine/instantiator' => 
     array (
       'pretty_version' => '1.4.0',
@@ -248,6 +239,15 @@
       array (
       ),
       'reference' => '99732be0ddb3361e16ad77b68ba41efc8e979019',
+    ),
+    'sebastianbergmann/phpunit' => 
+    array (
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '19b1c3af66484d8477025e23e23f4de18bc6f958',
     ),
     'symfony/polyfill-ctype' => 
     array (

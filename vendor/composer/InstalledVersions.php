@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'f8a038af467c7827fd570c610b0964c85f930267',
+    'reference' => '2b2c1fe581b2587d2bee1313487bbbfac6ff705a',
     'name' => 'sebastianbergmann/phpunit',
   ),
   'versions' => 
@@ -271,7 +271,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'f8a038af467c7827fd570c610b0964c85f930267',
+      'reference' => '2b2c1fe581b2587d2bee1313487bbbfac6ff705a',
     ),
     'symfony/polyfill-ctype' => 
     array (
